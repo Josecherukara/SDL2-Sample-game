@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="NSTO" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/NSTO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/NSTO" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add option="-lSDL2" />
+			<Add option="-lSDL2_mixer" />
+		</Linker>
+		<Unit filename="Main.cpp" />
+		<Unit filename="files/images/Logo.bmp" />
+		<Unit filename="files/images/about.bmp" />
+		<Unit filename="files/images/abrick.bmp" />
+		<Unit filename="files/images/alight.bmp" />
+		<Unit filename="files/images/anightsky.bmp" />
+		<Unit filename="files/images/apollonbrick.bmp" />
+		<Unit filename="files/images/apollonroad.bmp" />
+		<Unit filename="files/images/aroad.bmp" />
+		<Unit filename="files/images/aroadside.bmp" />
+		<Unit filename="files/images/awindow.bmp" />
+		<Unit filename="files/images/awindowwood.bmp" />
+		<Unit filename="files/images/icon.bmp" />
+		<Unit filename="files/images/menuwindow.bmp" />
+		<Unit filename="include/Batman.h" />
+		<Unit filename="include/Game.h" />
+		<Unit filename="include/GameScreenBlock_2.h" />
+		<Unit filename="include/Gamescreenblock.h" />
+		<Unit filename="include/IMG.h" />
+		<Unit filename="include/Map.h" />
+		<Unit filename="include/Menuworld.h" />
+		<Unit filename="include/Music.h" />
+		<Unit filename="include/Player.h" />
+		<Unit filename="include/ScreenBlock.h" />
+		<Unit filename="include/Sprite.h" />
+		<Unit filename="include/Text.h" />
+		<Unit filename="include/headers.h" />
+		<Unit filename="src/Batman.cpp" />
+		<Unit filename="src/Game.cpp" />
+		<Unit filename="src/GameScreenBlock_2.cpp" />
+		<Unit filename="src/Gamescreenblock.cpp" />
+		<Unit filename="src/IMG.cpp" />
+		<Unit filename="src/Map.cpp" />
+		<Unit filename="src/Menuworld.cpp" />
+		<Unit filename="src/Music.cpp" />
+		<Unit filename="src/Player.cpp" />
+		<Unit filename="src/ScreenBlock.cpp" />
+		<Unit filename="src/Sprite.cpp" />
+		<Unit filename="src/Text.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

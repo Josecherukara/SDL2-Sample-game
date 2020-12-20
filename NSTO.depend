@@ -1,0 +1,1133 @@
+# depslib dependency file v1.0
+1570538148 source:/home/jose/Documents/CS_Save_World/NSTO/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1570540788 /home/jose/Documents/CS_Save_World/NSTO/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1570540842 /home/jose/Documents/CS_Save_World/NSTO/include/Game.h
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1570411136 /home/jose/Documents/CS_Save_World/NSTO/include/Menuworld.h
+	"IMG.h"
+	"Text.h"
+	"IMG.h"
+	"Text.h"
+
+1568162212 /home/jose/Documents/CS_Save_World/NSTO/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1603038523 source:/home/jose/Documents/CS_Save_World/NSTO/src/Game.cpp
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1567989564 source:/home/jose/Documents/CS_Save_World/NSTO/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1570540878 source:/home/jose/Documents/CS_Save_World/NSTO/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+
+1568249818 /home/jose/Documents/CS_Save_World/NSTO/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+
+1568303180 source:/home/jose/Documents/CS_Save_World/NSTO/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Map.h"
+	"Game.h"
+
+1568232584 /home/jose/Documents/CS_Save_World/NSTO/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1568232556 source:/home/jose/Documents/CS_Save_World/NSTO/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/home/jose/Documents/CS_Save_World/NSTO/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1568304656 /home/jose/Documents/CS_Save_World/NSTO/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1570406078 /home/jose/Documents/CS_Save_World/NSTO/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1570407846 source:/home/jose/Documents/CS_Save_World/NSTO/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1570538148 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1570540788 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1570540842 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/Game.h
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1570411136 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/Menuworld.h
+	"IMG.h"
+	"Text.h"
+	"IMG.h"
+	"Text.h"
+
+1568162212 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1568304656 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1568249818 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+
+1568232584 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1570406078 /media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1570540828 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/src/Game.cpp
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1567989564 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1568303180 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Map.h"
+	"Game.h"
+
+1570540878 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+
+1568232556 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/media/jose/D2B4-AF6E/Jose/Documents/CS_Save_World/NSTO/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1603277831 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603256431 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1603287927 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1603255822 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/Menuworld.h
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1568162212 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1568304656 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1568249818 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+
+1568232584 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1570406078 /home/jose/Documents/IMPRESS_CHAITRA/NSTO/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1603282952 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/Game.cpp
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1603253628 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1603198663 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Map.h"
+	"Game.h"
+
+1603286404 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+
+1603278103 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1568232556 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/home/jose/Documents/IMPRESS_CHAITRA/NSTO/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1603277830 source:/media/jose/C948-FD6D/NSTO/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603256430 /media/jose/C948-FD6D/NSTO/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1603287926 /media/jose/C948-FD6D/NSTO/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1568162212 /media/jose/C948-FD6D/NSTO/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1603255822 /media/jose/C948-FD6D/NSTO/include/Menuworld.h
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1570406078 /media/jose/C948-FD6D/NSTO/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1568304656 /media/jose/C948-FD6D/NSTO/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1568249818 /media/jose/C948-FD6D/NSTO/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+
+1568232584 /media/jose/C948-FD6D/NSTO/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1603253628 source:/media/jose/C948-FD6D/NSTO/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1603198662 source:/media/jose/C948-FD6D/NSTO/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Map.h"
+	"Game.h"
+
+1603286404 source:/media/jose/C948-FD6D/NSTO/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+
+1603278102 source:/media/jose/C948-FD6D/NSTO/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1568232556 source:/media/jose/C948-FD6D/NSTO/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/media/jose/C948-FD6D/NSTO/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1603277830 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603256430 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1603287926 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1568162212 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1603255822 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/Menuworld.h
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1570406078 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1568304656 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1568249818 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	<vector>
+
+1568232584 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1603391556 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/Game.cpp
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1603253628 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1603198662 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Map.h"
+	"Game.h"
+
+1603286404 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+
+1603278102 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1568232556 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1603394163 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603256430 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1603427221 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1568162212 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1603255822 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/Menuworld.h
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1570406078 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1568304656 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1603429224 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	"Gamescreenblock.h"
+	"GameScreenBlock_2.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	"Gamescreenblock.h"
+	"GameScreenBlock_2.h"
+	<vector>
+
+1568232584 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1603426584 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/Game.cpp
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+	"headers.h"
+	<string>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1603253628 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1603394122 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+
+1603278102 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1568232556 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1603428406 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Map.h"
+	"Game.h"
+
+1603394018 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/Gamescreenblock.h
+	"IMG.h"
+	"IMG.h"
+
+1603393990 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/Gamescreenblock.cpp
+	"Gamescreenblock.h"
+	"Gamescreenblock.h"
+
+1603428920 source:/home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/src/GameScreenBlock_2.cpp
+	"GameScreenBlock_2.h"
+	"GameScreenBlock_2.h"
+
+1603428971 /home/jose/Documents/IMPRESS_CHAITRA/old/NSTO2/include/GameScreenBlock_2.h
+	"headers.h"
+	"Gamescreenblock.h"
+	"headers.h"
+	"Gamescreenblock.h"
+
+1603480772 source:/home/jose/Dropbox/NSTO/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603480811 /home/jose/Dropbox/NSTO/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1604339716 /home/jose/Dropbox/NSTO/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1568162212 /home/jose/Dropbox/NSTO/include/IMG.h
+	"headers.h"
+	"headers.h"
+
+1604326714 /home/jose/Dropbox/NSTO/include/Menuworld.h
+	"Map.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+	"Map.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1570406078 /home/jose/Dropbox/NSTO/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1568304656 /home/jose/Dropbox/NSTO/include/Text.h
+	"IMG.h"
+	"IMG.h"
+
+1604228841 /home/jose/Dropbox/NSTO/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	"Gamescreenblock.h"
+	"GameScreenBlock_2.h"
+	"Player.h"
+	"Batman.h"
+	<vector>
+	<iostream>
+	"ScreenBlock.h"
+	"Gamescreenblock.h"
+	"GameScreenBlock_2.h"
+	"Player.h"
+	"Batman.h"
+	<vector>
+
+1568232584 /home/jose/Dropbox/NSTO/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+	"headers.h"
+	"IMG.h"
+
+1603463147 /home/jose/Dropbox/NSTO/include/Gamescreenblock.h
+	"IMG.h"
+	"IMG.h"
+
+1604135299 /home/jose/Dropbox/NSTO/include/GameScreenBlock_2.h
+	"headers.h"
+	"Gamescreenblock.h"
+	"headers.h"
+	"Gamescreenblock.h"
+
+1604348728 source:/home/jose/Dropbox/NSTO/src/Game.cpp
+	"headers.h"
+	<string>
+	<cmath>
+	<sstream>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1603539275 source:/home/jose/Dropbox/NSTO/src/Gamescreenblock.cpp
+	"Gamescreenblock.h"
+	"Game.h"
+	"Gamescreenblock.h"
+	"Game.h"
+
+1604135299 source:/home/jose/Dropbox/NSTO/src/GameScreenBlock_2.cpp
+	"GameScreenBlock_2.h"
+	"GameScreenBlock_2.h"
+
+1603253628 source:/home/jose/Dropbox/NSTO/src/IMG.cpp
+	"IMG.h"
+	"IMG.h"
+
+1604328948 source:/home/jose/Dropbox/NSTO/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Music.h"
+
+1604341246 source:/home/jose/Dropbox/NSTO/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1568232556 source:/home/jose/Dropbox/NSTO/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+	"ScreenBlock.h"
+
+1568304748 source:/home/jose/Dropbox/NSTO/src/Text.cpp
+	"Text.h"
+	"Game.h"
+	"Text.h"
+	"Game.h"
+
+1604348182 source:/home/jose/Dropbox/NSTO/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Player.h"
+	"Sprite.h"
+
+1603575594 source:/home/jose/Dropbox/NSTO/src/catwoman.cpp
+	"catwoman.h"
+	"catwoman.h"
+
+1603612062 /home/jose/Dropbox/NSTO/include/catwoman.h
+	"catwomanaction.h"
+	"catwomanaction.h"
+
+1603611467 /home/jose/Dropbox/NSTO/include/catwomanaction.h
+	"characterinstances.h"
+	"characterinstances.h"
+
+1603611546 /home/jose/Dropbox/NSTO/include/characterinstances.h
+	"IMG.h"
+	"IMG.h"
+
+1603611424 source:/home/jose/Dropbox/NSTO/src/characterinstances.cpp
+	"characterinstances.h"
+	"characterinstances.h"
+
+1603611588 source:/home/jose/Dropbox/NSTO/src/catwomanaction.cpp
+	"catwomanaction.h"
+	"catwomanaction.h"
+
+1604327465 /home/jose/Dropbox/NSTO/include/Player.h
+	"Sprite.h"
+	"Sprite.h"
+
+1603710846 /home/jose/Dropbox/NSTO/include/Sprite.h
+	"IMG.h"
+	<string>
+	<vector>
+	"IMG.h"
+	<string>
+	<vector>
+
+1604327759 source:/home/jose/Dropbox/NSTO/src/Player.cpp
+	"Player.h"
+	"Game.h"
+	"Player.h"
+	"Game.h"
+
+1603710927 source:/home/jose/Dropbox/NSTO/src/Sprite.cpp
+	"Sprite.h"
+	"Sprite.h"
+
+1604328664 source:/home/jose/Dropbox/NSTO/src/Batman.cpp
+	"Batman.h"
+	"Player.h"
+	"Game.h"
+	"Batman.h"
+	"Player.h"
+	"Game.h"
+
+1604328631 /home/jose/Dropbox/NSTO/include/Batman.h
+	"Sprite.h"
+	"Sprite.h"
+
+1603480772 source:/home/jose/Dropbox/NSTO 12-11-2020/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603480811 /home/jose/Dropbox/NSTO 12-11-2020/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1604339716 /home/jose/Dropbox/NSTO 12-11-2020/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1568162212 /home/jose/Dropbox/NSTO 12-11-2020/include/IMG.h
+	"headers.h"
+
+1604326714 /home/jose/Dropbox/NSTO 12-11-2020/include/Menuworld.h
+	"Map.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1604228841 /home/jose/Dropbox/NSTO 12-11-2020/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	"Gamescreenblock.h"
+	"GameScreenBlock_2.h"
+	"Player.h"
+	"Batman.h"
+	<vector>
+
+1568232584 /home/jose/Dropbox/NSTO 12-11-2020/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+
+1603463147 /home/jose/Dropbox/NSTO 12-11-2020/include/Gamescreenblock.h
+	"IMG.h"
+
+1604135299 /home/jose/Dropbox/NSTO 12-11-2020/include/GameScreenBlock_2.h
+	"headers.h"
+	"Gamescreenblock.h"
+
+1608483337 /home/jose/Dropbox/NSTO 12-11-2020/include/Player.h
+	"Sprite.h"
+
+1603710846 /home/jose/Dropbox/NSTO 12-11-2020/include/Sprite.h
+	"IMG.h"
+	<string>
+	<vector>
+
+1608483337 /home/jose/Dropbox/NSTO 12-11-2020/include/Batman.h
+	"Sprite.h"
+
+1570406078 /home/jose/Dropbox/NSTO 12-11-2020/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1568304656 /home/jose/Dropbox/NSTO 12-11-2020/include/Text.h
+	"IMG.h"
+
+1604328664 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Batman.cpp
+	"Batman.h"
+	"Player.h"
+	"Game.h"
+
+1604348728 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Game.cpp
+	"headers.h"
+	<string>
+	<cmath>
+	<sstream>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1603539275 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Gamescreenblock.cpp
+	"Gamescreenblock.h"
+	"Game.h"
+
+1604135299 source:/home/jose/Dropbox/NSTO 12-11-2020/src/GameScreenBlock_2.cpp
+	"GameScreenBlock_2.h"
+
+1603253628 source:/home/jose/Dropbox/NSTO 12-11-2020/src/IMG.cpp
+	"IMG.h"
+
+1604348182 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Player.h"
+	"Sprite.h"
+
+1604328948 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Music.h"
+
+1604341246 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1604327759 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Player.cpp
+	"Player.h"
+	"Game.h"
+
+1568232556 source:/home/jose/Dropbox/NSTO 12-11-2020/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+
+1603710927 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Sprite.cpp
+	"Sprite.h"
+
+1568304748 source:/home/jose/Dropbox/NSTO 12-11-2020/src/Text.cpp
+	"Text.h"
+	"Game.h"
+
+1603480772 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/Main.cpp
+	"headers.h"
+	"Game.h"
+	<iostream>
+
+1603480811 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/headers.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<string>
+	<iostream>
+
+1608484133 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Game.h
+	"IMG.h"
+	"Menuworld.h"
+	"Map.h"
+	"Music.h"
+
+1568162212 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/IMG.h
+	"headers.h"
+
+1604326714 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Menuworld.h
+	"Map.h"
+	"IMG.h"
+	"Music.h"
+	"Text.h"
+
+1604228841 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Map.h
+	<iostream>
+	"ScreenBlock.h"
+	"Gamescreenblock.h"
+	"GameScreenBlock_2.h"
+	"Player.h"
+	"Batman.h"
+	<vector>
+
+1568232584 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/ScreenBlock.h
+	"headers.h"
+	"IMG.h"
+
+1603463147 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Gamescreenblock.h
+	"IMG.h"
+
+1604135299 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/GameScreenBlock_2.h
+	"headers.h"
+	"Gamescreenblock.h"
+
+1608483337 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Player.h
+	"Sprite.h"
+
+1603710846 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Sprite.h
+	"IMG.h"
+	<string>
+	<vector>
+
+1608483337 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Batman.h
+	"Sprite.h"
+
+1570406078 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Music.h
+	"SDL2/SDL_mixer.h"
+	<string>
+	<vector>
+
+1568304656 /home/jose/Dropbox/NSTO 12-11-2020 (copy)/include/Text.h
+	"IMG.h"
+
+1608484598 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Game.cpp
+	"headers.h"
+	<string>
+	<cmath>
+	<sstream>
+	<stdio.h>
+	<SDL2/SDL_mixer.h>
+	"Game.h"
+	"Music.h"
+
+1603539275 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Gamescreenblock.cpp
+	"Gamescreenblock.h"
+	"Game.h"
+
+1604135299 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/GameScreenBlock_2.cpp
+	"GameScreenBlock_2.h"
+
+1603253628 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/IMG.cpp
+	"IMG.h"
+
+1604348182 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Map.cpp
+	"Map.h"
+	"Game.h"
+	"Player.h"
+	"Sprite.h"
+
+1604328948 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Menuworld.cpp
+	"Menuworld.h"
+	"Text.h"
+	"headers.h"
+	"Game.h"
+	"Music.h"
+
+1604341246 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Music.cpp
+	"headers.h"
+	"Music.h"
+	"SDL2/SDL_mixer.h"
+
+1568232556 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/ScreenBlock.cpp
+	"ScreenBlock.h"
+
+1603710927 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Sprite.cpp
+	"Sprite.h"
+
+1568304748 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Text.cpp
+	"Text.h"
+	"Game.h"
+
+1608483792 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Batman.cpp
+	"Batman.h"
+	"Player.h"
+	"Game.h"
+
+1608483896 source:/home/jose/Dropbox/NSTO 12-11-2020 (copy)/src/Player.cpp
+	"Player.h"
+	"Game.h"
+
